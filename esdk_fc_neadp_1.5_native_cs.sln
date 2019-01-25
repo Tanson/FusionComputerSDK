@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuctionComputerSDK", "FuctionComputerSDK\FuctionComputerSDK.csproj", "{638B116B-62D8-47B2-B82A-AA10A0A2FB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCTestCore", "FCTestCore\FCTestCore.csproj", "{81F0BA6C-F36E-4225-A0CD-8B85B64E9981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638B116B-62D8-47B2-B82A-AA10A0A2FB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638B116B-62D8-47B2-B82A-AA10A0A2FB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638B116B-62D8-47B2-B82A-AA10A0A2FB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638B116B-62D8-47B2-B82A-AA10A0A2FB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F0BA6C-F36E-4225-A0CD-8B85B64E9981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F0BA6C-F36E-4225-A0CD-8B85B64E9981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F0BA6C-F36E-4225-A0CD-8B85B64E9981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F0BA6C-F36E-4225-A0CD-8B85B64E9981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7770144B-CB63-4591-829E-4AA1F0F3C796}
+	EndGlobalSection
+EndGlobal
